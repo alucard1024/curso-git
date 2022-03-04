@@ -1,4 +1,8 @@
 # Remotos
+## añadir remoto
+git remotr add oripgin 'lllllll.git'
+git remote gitalb 'xxxxxxxx'.git
+
 
 ## Gestión de repositorios remotos
 
