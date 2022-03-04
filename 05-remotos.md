@@ -54,6 +54,7 @@ $ git remote add luis git@github.com:luis/curso-de-git.git
 
 ```
 $ git remote remove luis
+$ git remote rm remotename
 ```
 
 ### Cambiar un shortcut de un repositorio remoto enlazado
